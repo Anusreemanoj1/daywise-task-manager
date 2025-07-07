@@ -44,18 +44,6 @@ daywise/
 - JSON (for data storage)
 
 
-## 📸 Screenshots
-
-### 🔐 Login Page
-![Login Page](screenshots/login_page.png)
-
-### ✅ Task Dashboard
-![Task View](screenshots/task_view.png)
-
-### 📔 Diary Entry
-![Diary](screenshots/diary_entry.png)
-
-
 ## 🔧 How to Run Locally
 
 1. **Clone this repository**
